@@ -1,0 +1,833 @@
+{
+ "Terms": [
+  {
+   "term_id": 1,
+   "chinese_term": "写意",
+   "pinyin": "xieyi",
+   "domain": "中国传统艺术、音乐美学",
+   "general_note": "“写意”不仅用于绘画，也见于音乐研究。",
+   "status": "待审核"
+  },
+  {
+   "term_id": 2,
+   "chinese_term": "意",
+   "pinyin": "yi",
+   "domain": "中国文化、美学与音乐研究",
+   "general_note": "“意”不仅用于文学和美学研究，也与音乐中的情感表达、意境营造和审美体验有关。杨鸣《试论“意”在古琴音乐美学中的地位和作用》从琴声所表达的情绪、引发的想象景象及二者的交融出发，探讨“意”在古琴音乐中的内涵及审美作用，为本用例库收录“意”的音乐相关用法提供了研究依据。英文用例的具体来源另见各条出处标注。",
+   "status": "待审核"
+  },
+  {
+   "term_id": 3,
+   "chinese_term": "象",
+   "pinyin": "xiang",
+   "domain": "中国文化、美学与音乐研究",
+   "general_note": "本用例库参考韩伟《古代乐论与“象”的美学生成》。该文认为，中国古代乐论通过超验模象、身体况喻和自然取象等方式，将流动、无形的声音转化为可以感受和想象的“音象”。乐音既可以呈现人的情感和性情，也可以象征天地、自然、政治与道德意义；音乐形象的生成还涉及情景交融、象征联想和通感互动。这一研究为本用例库收录“象”在音乐理论中的模拟、象征及声音形象等用法提供了依据。",
+   "status": "待审核"
+  },
+  {
+   "term_id": 4,
+   "chinese_term": "意象",
+   "pinyin": "yixiang",
+   "domain": "中国文化、美学与音乐研究",
+   "general_note": "本用例库主要参考王学佳《“美在意象”论域下中国古代音乐审美活动的特质分析》。该文将“美在意象”理论运用于中国古代音乐审美研究，认为音乐审美意象并非单纯存在于音乐作品或欣赏主体之中，而生成于“主客消融、乐我为一”的审美活动。由此可见，“意象”不仅适用于诗歌和绘画研究，也可以用于说明音乐与听赏主体的情感、想象和生命体验相互交融而形成的审美世界。这为本用例库收录“意象”的音乐相关用法提供了研究依据。",
+   "status": "待审核"
+  }
+ ],
+ "Concepts": [
+  {
+   "concept_id": 1,
+   "term_id": 1,
+   "concept_name": "抒写心意",
+   "definition": "抒写心意，表达思想、情感或意趣。",
+   "domain_context": "",
+   "historical_context": "",
+   "status": "待审核"
+  },
+  {
+   "concept_id": 2,
+   "term_id": 1,
+   "concept_name": "绘画技法或画体",
+   "definition": "以简练、概括的笔墨表现对象，重视神韵和意趣。在中国画分类中通常与“工笔”相对而言。",
+   "domain_context": "",
+   "historical_context": "",
+   "status": "待审核"
+  },
+  {
+   "concept_id": 3,
+   "term_id": 1,
+   "concept_name": "艺术审美原则",
+   "definition": "强调主体情感、精神意蕴与艺术表现，不拘泥于外在形象的直接再现，可延伸至绘画、摄影、戏曲、音乐等领域。",
+   "domain_context": "",
+   "historical_context": "",
+   "status": "待审核"
+  },
+  {
+   "concept_id": 4,
+   "term_id": 2,
+   "concept_name": "心意与情思",
+   "definition": "主体内在的思想、感情、胸怀和精神活动。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 5,
+   "term_id": 2,
+   "concept_name": "意志与意向",
+   "definition": "主体的愿望、志向、目的，以及在感知、行动或创作中表现出的趋向。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 6,
+   "term_id": 2,
+   "concept_name": "意思与意旨",
+   "definition": "言语、行为或艺术作品所表达或意欲表达的思想、见解和旨意。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 7,
+   "term_id": 2,
+   "concept_name": "意味与意趣",
+   "definition": "艺术表达所呈现或引发的情趣、韵味和深层意蕴。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 8,
+   "term_id": 3,
+   "concept_name": "物象与形象",
+   "definition": "事物呈现于感官或意识中的形态、景象和迹象，包括自然物象、人物形象以及由感知和想象形成的形象。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 9,
+   "term_id": 3,
+   "concept_name": "卦象与象征符号",
+   "definition": "通过观察天地万物而提取、设立的象征性图式，用以表现事物的性质、关系、变化规律及抽象意义。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 10,
+   "term_id": 3,
+   "concept_name": "模拟、取法与象征",
+   "definition": "作为动词，指依据某种对象进行模拟、效法，或通过具体、可感的形态表现难以直接言说的思想、情感、法则与精神意义。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 11,
+   "term_id": 3,
+   "concept_name": "超越具体形态的象",
+   "definition": "介于有形与无形、实与虚之间，既以具体形象为依托，又能指向“道”、精神意蕴及形象之外的审美境界，如“大象”“无象之象”“象罔”和“象外之象”。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 12,
+   "term_id": 4,
+   "concept_name": "心理意象",
+   "definition": "过去或当下的感知经验在头脑中的重现、保持或重新组合而形成的心理表象。它不只包括视觉形象，也可以包括听觉、触觉、运动感觉等经验。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 13,
+   "term_id": 4,
+   "concept_name": "诗学意义",
+   "definition": "文学作品中承载主体情感、思想或意趣的形象及其组合。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  },
+  {
+   "concept_id": 14,
+   "term_id": 4,
+   "concept_name": "哲学美学意义",
+   "definition": "在审美活动中，意与象、心与物、情与景相互交融而生成的审美形象或审美世界，蕴含情感体验、生命意趣与精神意义。",
+   "domain_context": null,
+   "historical_context": null,
+   "status": "待审核"
+  }
+ ],
+ "Sources": [
+  {
+   "source_id": 1,
+   "author_org": "University of Bristol",
+   "title": "Xieyi Thinking in Chinese Music Creation",
+   "year": "留空",
+   "source_type": "大学讲座介绍",
+   "publication": "University of Bristol",
+   "citation_note": "讲座主讲人：作曲家陶陌；英文译者：Ming Yue。"
+  },
+  {
+   "source_id": 2,
+   "author_org": null,
+   "title": "(来源：英译来源：Yolaine Escande, “Aesthetics in Chinese Philosophy: Painting and Calligraphy,” The Stanford Encyclopedia of Philosophy, 2026；) （来源：张彦远《历代名画记》卷二《论顾陆张吴用笔》。",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "(来源：英译来源：Yolaine Escande, “Aesthetics in Chinese Philosophy: Painting and Calligraphy,” The Stanford Encyclopedia of Philosophy, 2026；)\n（来源：张彦远《历代名画记》卷二《论顾陆张吴用笔》。"
+  },
+  {
+   "source_id": 3,
+   "author_org": null,
+   "title": "(来源：李泽厚《美的历程》的龚立曾英译本 The Path of Beauty)",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "(来源：李泽厚《美的历程》的龚立曾英译本 The Path of Beauty)"
+  },
+  {
+   "source_id": 4,
+   "author_org": null,
+   "title": "George Rowley, Principles of Chinese Painting, 2nd ed., 3rd printing, Princeton, NJ: Princeton University Press, 1974, p. 36.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：George Rowley, Principles of Chinese Painting, 2nd ed., 3rd printing, Princeton, NJ: Princeton University Press, 1974, p. 36."
+  },
+  {
+   "source_id": 5,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought,Harvard University Asia Center, 1992, p. 24.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought,Harvard University Asia Center, 1992, p. 24."
+  },
+  {
+   "source_id": 6,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought,Harvard University Asia Center, 1992, 31",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought,Harvard University Asia Center, 1992, 31"
+  },
+  {
+   "source_id": 7,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought, Harvard University Asia Center, 1992,pp. 29–30） （来源：王弼，《周易略例·明象》",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought, Harvard University Asia Center, 1992,pp. 29–30）\n（来源：王弼，《周易略例·明象》"
+  },
+  {
+   "source_id": 8,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought, Harvard University Asia Center, 1992,pp. 29–30",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought, Harvard University Asia Center, 1992,pp. 29–30"
+  },
+  {
+   "source_id": 9,
+   "author_org": null,
+   "title": "R. H. van Gulik, The Lore of the Chinese Lute: An Essay in Ch’in Ideology (Tokyo: Sophia University, 1940), pp. 85–86.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：R. H. van Gulik, The Lore of the Chinese Lute: An Essay in Ch’in Ideology (Tokyo: Sophia University, 1940), pp. 85–86."
+  },
+  {
+   "source_id": 10,
+   "author_org": null,
+   "title": "R. H. van Gulik, The Lore of the Chinese Lute: An Essay in Ch’in Ideology (Tokyo: Sophia University, 1940), pp. 112–113；对应原典为冷谦《琴声十六法·十四曰和》《十五曰疾》。",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：R. H. van Gulik, The Lore of the Chinese Lute: An Essay in Ch’in Ideology (Tokyo: Sophia University, 1940), pp. 112–113；对应原典为冷谦《琴声十六法·十四曰和》《十五曰疾》。"
+  },
+  {
+   "source_id": 11,
+   "author_org": null,
+   "title": "Meilin Chinn, “Music With and Without Images,” Journal of Chinese Philosophy 47, nos. 1–2 ，2020.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Meilin Chinn, “Music With and Without Images,” Journal of Chinese Philosophy 47, nos. 1–2 ，2020."
+  },
+  {
+   "source_id": 12,
+   "author_org": null,
+   "title": "Richard John Lynn, The Classic of Changes: A New Translation of the I Ching as Interpreted by Wang Bi, New York: Columbia University Press, 1994.） （来源：《周易·系辞上》",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Richard John Lynn, The Classic of Changes: A New Translation of the I Ching as Interpreted by Wang Bi, New York: Columbia University Press, 1994.）\n（来源：《周易·系辞上》"
+  },
+  {
+   "source_id": 13,
+   "author_org": null,
+   "title": "(来源： Yoewool Kang, “Zhen 眞 as the Ideal of Landscape Painting in Bifaji 筆法記,” Sungkyun Journal of East Asian Studies 22, no. 1 (2022): 27–47。作者据俞剑华编《中国古代画论类编》所收《笔法记》原文译出；其中 qi/q…",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "(来源： Yoewool Kang, “Zhen 眞 as the Ideal of Landscape Painting in Bifaji 筆法記,” Sungkyun Journal of East Asian Studies 22, no. 1 (2022): 27–47。作者据俞剑华编《中国古代画论类编》所收《笔法记》原文译出；其中 qi/qiyun 的 character/inner character 译法借鉴 Martin J. Powers。)\n(来源：荆浩，《笔法记》)"
+  },
+  {
+   "source_id": 14,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought (Cambridge, MA: Council on East Asian Studies, Harvard University, 1992), p. 33.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought (Cambridge, MA: Council on East Asian Studies, Harvard University, 1992), p. 33."
+  },
+  {
+   "source_id": 15,
+   "author_org": null,
+   "title": "Stephen Owen, Readings in Chinese Literary Thought,Harvard University Press, 1992, p. 585..",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Stephen Owen, Readings in Chinese Literary Thought,Harvard University Press, 1992, p. 585.."
+  },
+  {
+   "source_id": 16,
+   "author_org": null,
+   "title": "Roderick B. Campbell, “Beyond Meaning: Skeuomorphy and the Mediation of Shang Things,” World Archaeology 52, no. 3 (2020): 376–394, pp. 384-385.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Roderick B. Campbell, “Beyond Meaning: Skeuomorphy and the Mediation of Shang Things,” World Archaeology 52, no. 3 (2020): 376–394, pp. 384-385."
+  },
+  {
+   "source_id": 17,
+   "author_org": null,
+   "title": "(来源：James Legge, trans., The Texts of Taoism, Part I, The Sacred Books of the East, vol. 39 (Oxford: Clarendon Press, 1891), Tao Teh King, chapter 14) （来源：Arthur Waley英译, Lao Tz…",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "(来源：James Legge, trans., The Texts of Taoism, Part I, The Sacred Books of the East, vol. 39 (Oxford: Clarendon Press, 1891), Tao Teh King, chapter 14)\n（来源：Arthur Waley英译, Lao Tzu: Tao Te Ching 北京：外语教学与研究出版社，1999，第28—29页。"
+  },
+  {
+   "source_id": 18,
+   "author_org": null,
+   "title": "T. Griffith Foulk and Robert H. Sharf, “On the Ritual Use of Ch’an Portraiture in Medieval China,” Cahiers d’Extrême-Asie 7 ，1993–1994: 149–219，见pp. 158–160。",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：T. Griffith Foulk and Robert H. Sharf, “On the Ritual Use of Ch’an Portraiture in Medieval China,” Cahiers d’Extrême-Asie 7 ，1993–1994: 149–219，见pp. 158–160。"
+  },
+  {
+   "source_id": 19,
+   "author_org": null,
+   "title": "Mengyang Qiu, Processing Poetic Metaphor: A Dual-Route Approach, PhD thesis, University of Brighton, 2024, p. 155.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Mengyang Qiu, Processing Poetic Metaphor: A Dual-Route Approach, PhD thesis, University of Brighton, 2024, p. 155."
+  },
+  {
+   "source_id": 20,
+   "author_org": null,
+   "title": "Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153"
+  },
+  {
+   "source_id": 21,
+   "author_org": null,
+   "title": "原典出自南朝刘勰《文心雕龙·神思》；英译来自Stephen Owen, Readings in Chinese Literary Thought, Council on East Asian Studies, Harvard University, 1992, pp. 203–204, 334-335。",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：原典出自南朝刘勰《文心雕龙·神思》；英译来自Stephen Owen, Readings in Chinese Literary Thought, Council on East Asian Studies, Harvard University, 1992, pp. 203–204, 334-335。"
+  },
+  {
+   "source_id": 22,
+   "author_org": null,
+   "title": "原典出自叶燮《原诗·内篇下》，英译来自Stephen Owen, Readings in Chinese Literary Thought, Council on East Asian Studies, Harvard University, 1992, pp.531-532",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：原典出自叶燮《原诗·内篇下》，英译来自Stephen Owen, Readings in Chinese Literary Thought, Council on East Asian Studies, Harvard University, 1992, pp.531-532"
+  },
+  {
+   "source_id": 23,
+   "author_org": null,
+   "title": "Xiaoyan Hu, The Art of Genius: The Notion of Qiyun (Spirit Consonance) in Chinese Painting and Some Kantian Resonances, PhD thesis, University of Liverpool, 2020.",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Xiaoyan Hu, The Art of Genius: The Notion of Qiyun (Spirit Consonance) in Chinese Painting and Some Kantian Resonances, PhD thesis, University of Liverpool, 2020."
+  },
+  {
+   "source_id": 24,
+   "author_org": null,
+   "title": "(来源：Zong-qi Cai, “A Synthesis: Rhythm, Syntax, and Vision of Chinese Poetry,” in Zong-qi Cai, ed., How to Read Chinese Poetry: A Guided Anthology. New York: Columbia University …",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "(来源：Zong-qi Cai, “A Synthesis: Rhythm, Syntax, and Vision of Chinese Poetry,” in Zong-qi Cai, ed., How to Read Chinese Poetry: A Guided Anthology. New York: Columbia University Press, 2008, p. 379.)"
+  },
+  {
+   "source_id": 25,
+   "author_org": null,
+   "title": "Yuan Yuan Xi and Fung Ying Loo, “Concretizing Yixiang, Qiyun, and Yijing in Guzheng Music through a Daoist and Confucianist Lens,” Música Hodie 26 (2026): e83435",
+   "year": null,
+   "source_type": "原稿引用资料（待核验）",
+   "publication": null,
+   "citation_note": "来源：Yuan Yuan Xi and Fung Ying Loo, “Concretizing Yixiang, Qiyun, and Yijing in Guzheng Music through a Daoist and Confucianist Lens,” Música Hodie 26 (2026): e83435"
+  }
+ ],
+ "Examples": [
+  {
+   "example_id": 1,
+   "term_id": 1,
+   "concept_id": null,
+   "source_id": 1,
+   "english_text": "Xieyi (写意), also known as impressionistic manner or freehand brushwork, is an interpretive and freely expressive traditional Chinese painting style that reveals one of the most important characteristics of Chinese culture, specifically in artistic expression. It is not only a concept, but also an idea carrying the essence of Chinese culture that has been inherited for thousands of years. The Xieyi style pays attention to the expression and presentation of artistic conception, it conveys the Chinese philosophy to emphasise freedom, spirituality, individuality and expressiveness.\r\n\r\nIn terms of classic Chinese ink painting, Xieyi is more than a technique that features a reduction in detailed brushstrokes, that the changes in the intensity of strokes and ink create differences and variations in artistic conception and aura. In terms of music, the shifting intensity and illusion of music materials combine to create a non-visual experience that spreads and transforms the atmosphere.\r\n\r\nThe nuanced changing approaches are frequently applied to the narrative and development of many ancient Chinese music works, which formed a layered artistic mood. The use of artistic conception and aura expression as the foundation of creative techniques in Contemporary Chinese music—what we termed as “Xieyi Technique”—is a manifestation of the organic integration between contemporary music context and traditional Chinese temperament. Based on Xieyi techniques, this lecture will share representative contemporary Chinese music works to international audiences, striving to explore and discuss the narrative, development, and other writing approaches in Chinese Contemporary creation from different perspectives.",
+   "chinese_translation": "“写意”也被解释为“印象式表现”或“自由笔法”，是中国传统绘画中一种注重阐释与自由表现的风格，体现了中国文化，尤其是中国艺术表达的重要特征。写意不仅是一个概念，也是一种承载中国文化精髓、绵延传承数千年的思想观念。写意风格重视意境的表达与呈现，体现了强调自由、精神性、个体性与表现性的中国哲学观念。\r\n\r\n在中国传统水墨画中，写意不仅是一种减少细节刻画的技法；笔触与墨色的强度变化，还会造成意境和气韵[?]的差异与变化。在音乐中，音乐材料的强度变化与虚幻性[?]相互结合，形成一种非视觉性的体验，并使整体氛围不断延展和转化。这些细微的变化方式常被用于中国古代音乐作品的叙事与发展，从而形成层次丰富的艺术意境。\r\n\r\n在中国当代音乐中，以意境与气韵[?]的表现作为创作技法的基础，即我们所称的“写意技法”，体现了当代音乐语境与中国传统审美气质的有机融合。本次讲座将以写意技法为基础，向国际听众介绍具有代表性的中国当代音乐作品，并尝试从不同角度探讨中国当代音乐创作中的叙事、发展及其他写作方式。",
+   "page_number": "",
+   "notes": "原稿注明：中文译文依据现有英文文本回译，目前未查找到直接对应的中文原文，不能视为讲座主讲人或原作者的正式中文表述。"
+  },
+  {
+   "example_id": 2,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 2,
+   "english_text": "His intention precedes execution (yi cun bi xian) and, once the work is completed, his intention remains (hua jin yi zai); this is why it is entirely animated by spiritual breath.",
+   "chinese_translation": null,
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例1。\n\n【原典／原始中文（保留原稿全文）】\n意存笔先，画尽意在，所以全神气也。"
+  },
+  {
+   "example_id": 3,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 3,
+   "english_text": "The saying was originally used in reference to abstruse philosophical principles, such as \"Nothing can more fully express meaning than imagery; nothing can more fully express imagery than words\" and \"Words are to clarify the image: when the image is there, the words are forgotten; the image is to embody the meaning: when the meaning is understood, the image is forgotten\"",
+   "chinese_translation": "在中国传统水墨画中，写意不仅是一种减少细节刻画的技法；笔触与墨色的强度变化，还会造成意境和气韵[?]的差异与变化。在音乐中，音乐材料的强度变化与虚幻性[?]相互结合，形成一种非视觉性的体验，并使整体氛围不断延展和转化。这些细微的变化方式常被用于中国古代音乐作品的叙事与发展，从而形成层次丰富的艺术意境。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例2。"
+  },
+  {
+   "example_id": 4,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 4,
+   "english_text": "Lastly the Chinese spoke of the artist's conception (i), the transformation of the idea in the hands of a specific painter who was the instrument for conveying it. \"To express an idea or to represent an object properly, it must be turned over and over again in the mind, until it unites with the soul.\"",
+   "chinese_translation": null,
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例3。"
+  },
+  {
+   "example_id": 5,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": null,
+   "english_text": "Yi translated by the word 'intention' is, as revealed by the etymology, a kind of inner tension which spreads outwards like an emotion. This \"sound of heart,\" which we have to listen to, makes us go to one thing rather than another one, makes us act according to our inclinations. In that sense, yi, is intention understood as the conscious will to carry out a project. However, yi is equally an inner proclivity which comes towards and joins with the inner structure of the object (li). （Yves Millet, “The Sensory Intention—Art, Motif, and Motivation: A Comparative Approach,” Contemporary Aesthetics, vol. 7 (2009)；英文译者为 Kari Stunell。）",
+   "chinese_translation": "“意”被译为“意向”（intention），正如其字源所揭示的，它是一种内在的张力，像情感一样向外弥散。这种我们必须倾听的“心之音”，使我们趋向此物而非彼物，使我们依从自身的倾向而行动。在这个意义上，“意”是作为一种实施某项计划的自觉意志而被理解的意向。然而，“意”同样是一种内在的倾向，它朝向并融入对象的内在结构（理）。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例4。\n\n【来源】此条原稿片段未识别到独立出处；请人工核对原稿。"
+  },
+  {
+   "example_id": 6,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 5,
+   "english_text": "Hsien-ch’iu Meng said, “I have accepted your declaration that the Sage-King Shun did not consider Yao [who abdicated the throne in favor of Shun] to be his subject. Yet there is a poem in the Book of Songs:\n\nOf all that is under Heaven,\n\nNo place is not the king’s land;\n\nAnd to the farthest shores of all the land,\n\nNo man is not the king’s subject.\n\nI would like to ask how it could be that, when Shun became emperor, the Blind Old Man [Shun’s father] would not be considered his subject?”\n\nMencius replied, “This poem is not talking about that. Rather the poem concerns the inability to care for one’s parents when laboring in the king’s business. It says, ‘Everything is the king’s business [and should be a responsibility shared by all], yet I [alone] labor here virtuously.’ In explaining the poems of the Book of Songs, one must not permit the literary patterning (wen*) to affect adversely [the understanding of] the statement (tz’u*); and one must not permit [our understanding of] the statement to affect adversely [our understanding of] what was on the writer’s mind (chih*). We use our understanding (yi*) to trace it back to what was [originally] in the writer’s mind (chih*)—this is how to grasp it”. —Mencius V.A.4.ii",
+   "chinese_translation": "咸丘蒙说：“您说舜没有把尧当作臣子，这番教导我已经领会了。可是《诗经》说：‘普天之下，没有一处不是君王的土地；四海之内，没有一个人不是君王的臣民。’既然舜已经做了天子，请问他的父亲瞽瞍为什么不是他的臣子呢？”\n\n孟子说：“这首诗说的不是这个意思，而是说有人忙于替君王办事，无法奉养父母。他是在抱怨：‘这些都是君王的事务，为什么偏偏只有我如此辛苦操劳？’所以，解释诗歌，不能拘泥于个别文字而妨碍理解语句，也不能拘泥于语句而曲解作者的本意。应当凭借自己的理解去推求作者的心意，这样才能真正读懂诗。”",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例5。\n\n【原典／原始中文（保留原稿全文）】\n咸丘蒙曰：“‘舜之不臣尧’，则吾既得闻命矣。《诗》云：‘普天之下，莫非王土；率土之滨，莫非王臣。’而舜既为天子矣，敢问瞽瞍之非臣如何？”\n\n曰：“是诗也，非是之谓也；劳于王事而不得养父母也。曰：‘此莫非王事，我独贤劳也。’故说诗者，不以文害辞，不以辞害志。以意逆志，是为得之。”  ——《孟子·万章上》"
+  },
+  {
+   "example_id": 7,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 6,
+   "english_text": "As the \"inner\" term in a model of language, yi [意] (translated as \"concept in the mind\") is very different from chiha [志] (\"what is intently on the mind\"). Yi [意] does not encompass circumstance, motive, and an intense emotional relation to some \"content\"; chiha [志] is voluntary (and thus is sometimes properly translated as \"will\" or \"intention\"). In the frame of reference of a human speech act, yi [意] becomes something like \"what was meant\" or \"what someone had in mind.\" Although yi [意] was commonly used of ordinary human beings, its application here to the Sages is particularly apt, for the Sages, unlike other mortals, have no hidden inner motives but are in every way what they appear to be. As a unifying minimalization of some putative content that transcends the particular words of an utterance, yi [意] most closely approaches “meaning” or “concept” in the Western sense (and on that level is close to, and in some periods interchangeable with another yi [义], \"a truth\"). However, even though yi [意] has this level of relative dissociation from a particular act of the human mind, it never quite achieves the full level of abstraction or collectivization we find in Western terms such as meaning, concept, or idea. It is \"concept\" as it is being grasped by a human mind—\"what is meant\" rather than \"Meaning.\"",
+   "chinese_translation": "作为语言模式中的“内在”一项，“意”（译作“心中的观念”）与“志”（“心中专注之所在”）有着很大的不同。“意”并不涵盖情境、动机以及与某种“内容”之间强烈的情感联系；“志”则具有意志性，因此有时可以恰当地译为“意志”或“意图”。在人类言语行为的参照框架中，“意”接近于“所要表达的意思”或“某人心中所想”。虽然“意”也常用于普通人，但在这里用来谈论圣人尤其贴切，因为圣人与其他人不同，他们没有隐而不露的内在动机，而是在各个方面都表里如一。作为对某种假定存在、超出一句话具体措辞的内容所作的统一而最低限度的概括，在内涵上最为贴近西方意义上的“意义”（meaning）或“概念”（concept）（在这一层面上，它接近于另一个“义”[ia，即‘公理/真理’]，且在某些历史时期两者甚至可以互换通用）。然而，即便“意”在某种程度上相对脱离了人类心智的具体个别活动，它也从未完全达到我们在西方诸如 meaning（意义）、concept（概念）或 idea（观念）等术语中所见到的那种高度抽象化或普遍集体化的程度。它是作为正被人类心智所领会、把握着的“概念”，即具体被表达出的“所指/原意”（what is meant），而非大写的、先验抽象的“意义本体”（Meaning）。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例6。"
+  },
+  {
+   "example_id": 8,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 7,
+   "english_text": "The Image is what brings out concept; language is what clarifies (ming) the Image. Nothing can equal Image in giving the fullness of concept; nothing can equal language in giving the fullness of Image. Language was born of the Image, thus we seek in language in order to observe the Image. Image was born of concept, thus we seek in Image in order to observe the concept. Concept is fully given in Image; Image is overt in Language.\n\n—Wang Pi, \"Elucidation of the Image,\" Ming Hsiang",
+   "chinese_translation": "象，是显发意的；言，是阐明象的。能够完全穷尽心意的莫过于象，能够完全穷尽物象的莫过于言。言语由卦象化生而来，因此可以循着言语去体察卦象；象由内在概念（意）化生而来，因此可以循着卦象去体察深意。心意借由卦象得以充分穷尽，卦象借由言语得以显著彰明。——王弼《周易略例·明象》",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例7。\n\n【原典／原始中文（保留原稿全文）】\n夫象者，出意者也。言者，明象者也。盡意莫若象，盡象莫若言。言生於象，故可尋言以觀象；象生於意，故可尋象以觀意。意以象盡，象以言著。"
+  },
+  {
+   "example_id": 9,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 8,
+   "english_text": "On the level of the Book of Changes, the yi [意] or conceptual value of a hexagram is immanent in and accessible only through the Hsianga [象]. Thus the hexagram Ch'ien [乾] is the \"dragon,\" embodying active force and the capacity to undergo all transformations. Ken [艮] is the \"mountain,\" a powerful stillness that attends upon action. The yi [意] of the hexagrams can be explained in words, as I have started to do above, but the words will keep accumulating without ever \"giving the fullness of\" the significance of the hexagram. Yet the yi [意] of the hexagram is immanent in the Image, which can be spoken of in words.\n\nOn the level of a theory of language, Wang Pi's passage suggests that words do not name \"things\"; words are a stage in the processes of mind, \"born from\" the images of things. Although Wang Pi's intentions are confined to the problematic relations between the hexagrams and their associated Images, we may extend his theory to a more general description of the workings of language. The word bowl does not name this bowl or that bowl; rather bowl exists as a concept (yi [意]) from which emerges a generalized image (hsianga [象]) of \"bowl,\" and the word is a name given the image. Here we have an initial move away from a purely psychological theory of language; Wang Pi's theory of universal categories makes it possible to speak of a concept of \"bowl,\" apart from this or that particular bowl or how one happens to feel about bowls in general.",
+   "chinese_translation": "在《易经》的层面上，卦的“意”（即概念价值）内在于“象”之中，并且只有通过“象”才能被把握。因此，乾卦是“龙”，体现着能动力与承载万千变化的能力；艮卦是“山”，虽静止不动，但蕴含着蓄势待发的强大力量。卦之“意”可以用言辞来解释，正如我方才所做的那样，但言辞会不断累积，却始终无法“充分给出”卦的全部意义。然而，卦的“意”内在于“象”，而“象”是可以用言辞谈论的。\n\n在语言理论的层面上，王弼这段话表明：赐予并不命名“事物”；言辞是心智过程中的一个阶段，“产生于”事物的形象。虽然王弼的意图只限于卦象与其相关之象之间的疑难关系，但我们可以将他的理论推广到对语言运作的更一般描述。“碗”这个词并不命名这个碗或那个碗；不如说，“碗”是作为一个概念（意，yi）而存在的，从这个概念中产生出“碗”的概括形象（象，hsianga），而词是赋予这个形象的一个名称。这里出现了从纯粹心理语言理论的初步转向；王弼的普遍范畴理论，使得我们可以谈论“碗”的概念，而不必涉及某一个具体的碗，也不涉及人们对碗的一般性感受。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例8。"
+  },
+  {
+   "example_id": 10,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": null,
+   "english_text": "To become an instrument for conveying this naturalness of the Tao, the artist must attain the fruit of effortlessness.This meant much more than spontaneity or even than personal genius, since it was born of the harmony between the artist and universal spirit, which is akin to mystical union. Chinese writings abound in phrases and stories about the preparation of the artist in order to become attuned to the universe with its unfathomable thoughts (shên-ssu) and its unnameable ideas (miao-i). Every age insisted upon the necessity of meditation and concentration in order to reach the highest state of creative readiness; then the artist could \"grasp the natural without effort.\"",
+   "chinese_translation": null,
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例9。\n\n【原典／原始中文（保留原稿全文）】\n要成为传达“道”之自然性的“器”，艺术家必须臻于“逸”的境界。这远不只是自发性，甚至也不只是个人的天赋，因为它源于艺术家与宇宙精神之间的和谐，而这种和谐近似于神秘的契合。中国著述中有大量的论述与故事，讲述艺术家如何做好准备，使自身与宇宙及其深不可测的“神思” （shên-ssu） 、难以名言的“妙意” （miao-i） 相契合。历代都强调静思与专注的必要性，以使艺术家达到最充分的创作准备状态；届时，他便能够“不假勉力地把握自然”。\n\n【来源】此条原稿片段未识别到独立出处；请人工核对原稿。"
+  },
+  {
+   "example_id": 11,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": null,
+   "english_text": "Yi 意is better translated as \"intent\"-in the sense of something external and manifest in movement. This is apparent because the Xunzi attributes \"intentionality\" to a dance:\n\nThe intent [yi ] of the dance joins with the way of heaven....How can one know the intent of the dance?— The eyes do not themselves see, the ears do not themselves hear, and yet the order of the bowing, raising the head, crouching and stretching out, advancing and retreating, slowing down and speeding up is such that none of it is not modest and controlled.\n\n(Xunzi 20/37-39)",
+   "chinese_translation": "意”更适合译为“意向”（intent）——这里指一种外在的、显现于动作之中的趋向。之所以如此，是因为《荀子》把“意向性”（intentionality）赋予了舞蹈：\n\n舞意天道兼……\n\n曷以知舞之意\n\n曰目不自见耳不自闻也\n\n然而治俯仰诎信进退迟速莫不廉制--《荀子·乐论》\n\n舞蹈之“意”与天道相合……如何能够了解舞蹈之“意”呢？眼睛不能看见自身，耳朵不能听见自身；然而，低头与抬头、屈曲与伸展、前进与后退、放慢与加速，都井然有序，没有一处不合乎节制。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：一般英文用例；条目：用例10。\n\n【原典／原始中文（保留原稿全文）】\n舞意天道兼⋯\n\n曷以知舞之意\n\n曰目不自見耳不自聞也\n\n然而治俯仰詘信進退遲速\n\n莫不廉制\n\n【来源】此条原稿片段未识别到独立出处；请人工核对原稿。"
+  },
+  {
+   "example_id": 12,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 9,
+   "english_text": "Now in the Lute handbooks of the Ming dynasty each group of tunes belonging to the same mode is preceded by a short musical composition, that bears as title the name of the mode, with the word i “meaning” added. So the collection of tunes belonging to the kung-mode opens with a short composition entitled kung-i (or also kung-tiao-i), “Meaning of the Kung mode.”\n\n…\n\nIn ch’in ideology, however, the tiao-i mean much more than just melodic patterns: they are called i “meaning,” because they convey to the player and the hearer the peculiar atmosphere, the emotional and philosophical value of each mode.",
+   "chinese_translation": "明代琴谱中，每一组属于相同调式的琴曲之前，通常附有一首短曲，其标题由调名加“意”字构成。例如，同属宫调的一组琴曲，其前便冠有一首题为“宫意”（或称“宫调意”，即“宫调之意”）的短曲。\n\n……\n\n然而，在古琴思想中，“调意”远不只是旋律型。调意之所以被称为“意”，是调意能够向演奏者和听者传达每种调式特有的氛围，以及在情感与哲学层面的价值。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：音乐案例；条目：案例1。"
+  },
+  {
+   "example_id": 13,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 10,
+   "english_text": "…Then fingers and tones will be in harmony. Every tone has its own special significance: the significance comes first, for the notes adjust themselves to the significance. So all the wonders of this music are completed. Therefore, heavy and not vain, light but not floating, swift but not hasty, slow but not slack; with regard to vibrato and vibrato ritardando: smooth but not vulgar; with regard to glissando’s: correct and not inaccurate; when all the movements are linked up together smoothly; when the crescendo’s and decrescendo’s are crisp and yet connected ... then tone and significance shall be in harmony. Then the soul shall be free and the spirit at rest, fingers and strings melt together, and the pure harmony that leaves no trace shall be produced. These are the signs by which I recognize the great Harmony.\n\n…\n\n… The first is called the little swift touch, which must be brisk. It must be firm, yet the movement of the fingers should not spoil the elegance inherent in the swift touch: it should suggest floating clouds and flowing water. The second is the great swift touch. Its most important point lies in its precipitation; but one should make special efforts not to cause confusion by playing too quickly. Then as a matter of course one expresses a mood of tranquillity, and the sounds will come forth bubbling, like rocks crumbling down or like a cascade falling from a high place. Therefore the quick touch is regulated by the meaning of the tones. It is the meaning that lends tones their divine qualities.",
+   "chinese_translation": "……如此，手指与声音便能相互协调。每个音都有其特有的意蕴；意发而音随，音乐的种种妙处便汇聚于此。因此，声音应当厚重而不空虚，轻盈而不浮薄，迅疾而不急促，舒缓而不松弛；吟、猱等指法应圆润而不流俗，绰、注等指法应准确而不偏差；旋律的运行应迂回曲折而衔接无间，抑扬起伏而断后复连。这样，声音与意蕴便能相互协调，进而使人神情安闲、气度超逸，手指与琴弦浑然相化，自然达到融合无迹的境界。我由此领会到什么是“太和”。\n\n……\n\n……第一种是“小速”，速度稍快，关键在于紧凑；连续运指时，不能损害快速演奏中应有的雅正风度，还应呈现行云流水般的意趣。第二种是“大速”，重在迅疾，但必须做到急而不乱，仍然保持安闲从容的气象，同时奏出如山崖崩裂、飞瀑奔泻一般的声音。因此，快速指法应当根据音乐之“意”来运用，并由“意”赋予声音神妙的表现力。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：音乐案例；条目：案例2。\n\n【原典／原始中文（保留原稿全文）】\n……则指与音和。音有意，意动音随，则众妙归焉。故重而不虚，轻而不浮，疾而不促，缓而不弛；若吟若猱，圆而不俗；以绰以注，正而不差；迂回曲折，联而无间；抑扬起伏，断而复连。则音与意和，因之神闲气逸，指与弦化，自得浑合无迹，吾是以知其太和。\n\n……\n\n……小速微快，要以紧，递指不伤疾中之雅度，而有行云流水之趣。大速贵急，务使急而不乱，依然安闲之气象，而泻出崩崖飞瀑之声。是故疾以意用，更以意神。"
+  },
+  {
+   "example_id": 14,
+   "term_id": 2,
+   "concept_id": null,
+   "source_id": 11,
+   "english_text": "So how should his last sentence— “the player will be able to express himself through the music”—be understood? This is the most puzzling bit of the passage given the autonomy Xi Kang grants music. As clues, other possible translations include: “only then will meaning (i 意) be expressed (ni 擬)” or “only then will the music resemble the meaning or intention” or “and all is played only as intended.” The idea of expression encourages our desire for content, to seek what music expresses, but expression need not be objectified in this way, especially if we take meaning as meaningfulness. According to Xi Kang's description, a lack of content contributes to music's meaningfulness in two ways. First, the absence of signs or other forms of mediation in music are responsible for releasing our emotions. Second, when a musician with a tranquil heartmind (1.e., emptied of emotions) and skilled hands plays music, empty of signs, touch reflects thought and meaningfulness is present. If we must still consider this in terms of expression, it is akin to the way that nature expresses itself.",
+   "chinese_translation": "那么，他最后一句“演奏者将能够通过音乐表达自己”应当如何理解？嵇康赋予音乐自主性，这是整段文字中最令人费解的一点。作为线索，其他可能的译法包括：“唯有如此，意（i 意）才会被表达（ni 擬）”，或“唯有如此，音乐才会近似于意义或意图”，或“而一切都只按意图演奏”。表达这一观念助长我们对内容的渴望，促使我们去追问音乐表达了什么；但表达未必非要以此方式对象化，尤其当我们把“意义”理解为意义性或富有意味时。根据嵇康的论述，音乐不具有确定内容，反而从两个方面促成了它的意义性。第一，音乐不存在符号或其他形式的中介，这会使人的情感得到释放。第二，当一位心神宁静（即情感被清空）且双手技艺娴熟的演奏者演奏没有符号的音乐时，手指触弦便能反映思想，意义性也随之呈现。倘若我们仍必须从表达的角度来考虑这一点，那么它类似于自然表达自身的方式。",
+   "page_number": null,
+   "notes": "原文档术语：《意》；类别：音乐案例；条目：案例3。"
+  },
+  {
+   "example_id": 15,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 12,
+   "english_text": "The tendencies [of affairs] group according to kind, and things divide according to their groups; thus arise the auspicious and harmful. In Heaven this process creates images, and on Earth it creates forms; thus transformation and permutation arise.",
+   "chinese_translation": "事物的趋向按照类别聚合，各种事物按照群体加以区分，由此产生吉凶。在天上，这一过程呈现为日月星辰等天象；在地上，则凝结为有形的事物，变化也由此显现出来。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例1。\n\n【原典／原始中文（保留原稿全文）】\n方以类聚，物以群分，吉凶生矣。在天成象，在地成形，变化见矣。"
+  },
+  {
+   "example_id": 16,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 13,
+   "english_text": "I [the young painter] said, “Painting (hua 畵) is superficiality (hua 華). One can achieve zhen 眞 just through attaining likeness (si 似). How could this be so complicated?” The old man said, “It is not so. Painting is painting (hua 畵). One fathoms the image of the object and grasps its genuineness (zhen 眞). [When painting] the outer appearance, one should grasp the outer appearance; [when painting] the substance (shi 實), one should grasp the substance. You cannot take the outer appearance and regard it as the substance. If you do not know this method, you might still barely achieve likeness, but you cannot succeed in attaining genuineness (zhen 眞).” I asked, “What do you call likeness and what do you call genuineness?” The old man replied, “A painting of likeness achieves the form (xing 形), yet leaves out its character (qi 氣).11 A painting of genuineness is abundant in both inner character (qi 氣) and material quality (zhi 質). If qi is transmitted through the outer appearance, while missing in the image (xiang 象), this image is dead.”",
+   "chinese_translation": "……[年轻画家]问：“绘画表现的是事物的外在形貌，只要重视形似就能获得真实，难道这里还有什么复杂难解之处吗？” 老者回答：“不是这样。绘画之所以成为绘画，在于体察事物之象，从而把握其真实。对于事物的外在形貌，应把握其外在形貌；对于事物的内在实质，应把握其内在实质，不能把外在形貌当作内在实质。如果不懂得这个道理，勉强做到形似尚且可以，但要表现事物的真实，就不可能达到了。” 年轻画家又问：“什么叫‘似’？什么叫‘真’？” 老者回答：“所谓‘似’，是只获得了事物的形，却遗漏了它的气；所谓‘真’，则是气与质都得到充分呈现。如果气只显现在外在形貌上，却没有进入艺术形象之中，那么这个‘象’就是僵死的。”",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例2。\n\n【原典／原始中文（保留原稿全文）】\n……曰：“画者，华也。但贵似得真，岂此挠矣。”叟曰：“不然。画者，画也。度物象而取其真。物之华，取其华；物之实，取其实。不可执华为实。若不知术，苟似，可也；图真，不可及也。”曰：“何以为似？何以为真？”叟曰：“似者，得其形，遗其气。真者，气质俱盛，凡气传于华，遗于象，象之死也。"
+  },
+  {
+   "example_id": 17,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 14,
+   "english_text": "The necessary mediation of “image” between concept and language has important consequences for poetry and for other literature. When the poet observes the forms of the world around him, the infinite particularity of the physical world can be reduced to some essential minimum, into categorical “images,” and thence, into categorical language. The poet and his readers can assume that those images are the natural embodiment of yi, the “conception” of how the world “is.” Thus poetic “imagery” (which should be clearly distinguished from “imagery” as the term is applied in Western literary studies) may be the immanence of “concept”; and this assumption carries the immense authority of the Book of Changes.",
+   "chinese_translation": "“象”在概念（意）与语言（言）之间具有必不可少的中介作用，这对诗歌及其他文学形式产生了深远的影响。当诗人观察周遭世界的万千形态时，物理世界那无尽纷繁的个殊性，便可被归纳提炼为某种最基本的本质特征，转化为范畴性的“象”，进而转化为范畴性的语言。诗人及其读者因而可以确信，这些“象”正是对“意”的自然体现，而“意”正是关于世界“如何存在”的心灵构想。因此，中国诗歌中的“意象/象”（与西方文学批评语境中所使用的“imagery”截然不同）或许正是“意/概念” 内在呈现的方式；而这一理论预设得到了《易经》这一经典权威的支持。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例3。"
+  },
+  {
+   "example_id": 18,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 15,
+   "english_text": "hsiang 象: “image”, the normative visual schematization of a thing or of the embodiment of an idea (such as a phase of change, a hexagram in the Book of Changes) in such a schematization. According to the neo-Taoist philosopher Wang Pi 王粥 (226-249L writing in reference to the “Images” section of the Book of Changes, hsiang is that which necessarily mediates between concepts ( yi ) and language. Hsiang is neither the particular thing (though it may be perceived as immanent in particular things) nor the \"idea\" of a thing, but rather a sensuous schematization of the normative thing. In literary usage, beginning in the Southern Dynasties, hsiang becomes strongly associated with “appearances”; and thus the term is sometimes used imprecisely to refer simply to the phenomenal world, for instance, hsiang-wai, 象外, “beyond Hsiang,” means simply “outside of the sensuous world” and wan-hsiang 萬象, “the myriad images,” refers simply to all the phenomena of the sensuous world.",
+   "chinese_translation": "象（hsiang）——“意象/形象”，指事物的规范性视觉图式化，或观念（如变化的一个阶段、《周易》中的某一卦）在这种图式化中的体现。据魏晋玄学家王弼（226-249 CE）在论及《易经》“象”部分时所言，象是概念（意）与语言（言）之间可缺少的中介。象既非具体事物（尽管它可能被感知为内在于具体事物之中），也非该事物的“观念”，而是对该类食物的规范事理（thing）感性图式化。在文学用法中，自南朝以降，象与“表象”紧密关联；因此，该术语有时被不精确地用来仅指现象世界，例如，“象外”即“超越诸象”，指超出感性世界；而“万象”即“万千形象”，泛指感性世界中的一切现象。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例4。"
+  },
+  {
+   "example_id": 19,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 16,
+   "english_text": "Hints of an indigenous ontology of mediation can be seen in a late first-millennium BCE text and the concept of xiang 象. In a seminal article on the Xicizhuan, Willard Peterson showed that the term xiang, despite normally being translated as “image” or “representation,” strained the usual sense of those terms and had to be understood as entailing a different relationship than that between original and copy. Xiang, he claimed, should be translated as “figure” or “figuring” … as in “prefiguring” but “corresponding to” rather than “coming before” the phenomenon figured: “A figure (xiang) is an image or likeness, but it is also a form or shape, a design or configuration or pattern, a written symbol; ‘to figure’ is to represent as a symbol or image, but also to give or bring into shape.” (Peterson 1982, 81) In the text, the anonymous author of the Xicizhuan lays out the creation of the Yijing hexagrams in terms of the mythical Pangu observing the figures of heaven, the models of earth, the markings of birds and beasts, his own body and the myriad things of the world. Thus, the hexagrams are crystallizations of all the other patterns of the universe. The nature of the ongoing relationship between the Yijing hexagrams, their interpretive commentary and the world is made clear in the following passage:\n\n● A2.1 ‘Sages set out the hexagrams (of the Yijing)’\n\n● A2.2 ‘Observing the figures (of the cosmos) and attaching the commentary, they made clear\n\nthe auspicious and the ill-fortuned’\n\n● A2.3 “Hard and soft (lines of the Yijing hexagrams) push against each other and give birth to\n\nflux and transformation”\n\n● A 2.4 “In consequence, (the commentary) ‘auspicious’ and ‘ill-fortuned’ figure loss and gain”.\n\n● A2.5 ‘(the commentary) “regret” and “remorse” figure anxiety and apprehension’ Xici Zhuan (translation based on Peterson 1982, 95)",
+   "chinese_translation": "在公元前一千纪晚期的一部文献以及“象”的概念中，可以看到中国本土中介本体论的若干线索。美国著名汉学家裴德生Willard Peterson在研究《系辞传》的一篇重要论文中指出，“象”虽然通常被译为“图像”（image）或“再现”（representation），但这种翻译并不能完全体现“象”的内涵；要理解“象”，就必须认识到，它所包含的并非原物与摹本之间的那种关系。他主张把“象”应译为figure（图像）或figuring（描绘）。其中figuring取 prefiguring（预示）中 figuring 之义，强调与现象\"相对应\"，而非\"先于\"现象。 “作为figure的‘象’，既是image(图像)或相似物，也可以是form(形式)或shape(形状)、design(图案)、configuration(构形)或pattern(模式)，是书写符号；作为动词，to figure是指以符号或图像来表现，也表示赋予形状或使之成形。”（Peterson 1982，81）《系辞传》的佚名作者神话人物盘古观察天之象、地之法、鸟兽之文、自身以及世间万物，说明《易经》卦象的产生。因此，卦象是宇宙万物模式的结晶。《易经》的卦象以及解释卦象的文字与现实世界之间持续存在的关系，下面一段讲得很清楚：解释卦象的文字与现实世界之间持续存在的关系，都在下列文字中得到清楚的说明：\n\nA2.1：“圣人设卦（《易经》的卦）”\n\nA2.2：“观象（宇宙之象）而系辞，明吉凶”\n\nA2.3：“刚柔（《易经》卦中的爻）相推而生变化”\n\nA2.4：“是故（传文）‘吉’与‘凶’图绘得失”\n\nA2.5：“（传文）‘悔’与‘吝’图绘忧虑与恐惧”\n\n（中文原典来自《系辞传》，对应的英文部分源于Willard J. Peterson, “Making Connections: ‘Commentary on the Attached Verbalizations’ of the Book of Change,” Harvard Journal of Asiatic Studies 42, no. 1 (1982): 67–116, pp. 81, 95。）\n\n（编者注：Campbell 原文作 the mythical Pangu，此处照录。其所述内容实际出自《周易·系辞下》“古者包牺氏之王天下也，仰则观象于天，俯则观法于地……”，“包牺氏”是指伏羲，并非盘古。Campbell 作 Pangu，疑为作者误记或混淆。）",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例5。"
+  },
+  {
+   "example_id": 20,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 17,
+   "english_text": "译例A: James Legge英译\n\nIts upper part is not bright, and its lower part is not obscure. Ceaseless in its action, it yet cannot be named, and then it again returns and becomes nothing. This is called the Form of the Formless, and the Semblance of the Invisible; this is called the Fleeting and Indeterminable.\n\n译例B: Arthur Waley英译\n\nIts rising brings no light;\n\nIts sinking, no darkness.\n\nEndless the series of things without name\n\nOn the way back to where there is nothing.\n\nThey are called shapeless shapes;\n\nForms without form;\n\nAre called vague semblances.",
+   "chinese_translation": "它的上面既不显得光明亮堂；它的下面也不显得阴暗晦涩，无头无绪、延绵不绝却又不可称名，一切运动都又回复到无形无象的状态。这就是没有形状的形状，不见物体的形象，这就是“惚恍”。\n\nWaley译文回译：它升起时并不带来光明，下沉时也不带来黑暗。无名事物绵延不绝，正在返回空无之处。它们被称为没有形状的形状、没有形式的形式，也被称为模糊的表象。\n\n(编者说明：Legge与Waley都对原文作了解释性处理，但二者使用 semblance 的位置并不相同。按照Legge译文与原典的句法顺序，the Semblance of the Invisible 对应“无物之象”，因此 semblance 是他对“象”的解释性翻译；the Fleeting and Indeterminable 则对应“惚恍”。Waley将“其上／其下”动态化为 rising/sinking，突出了“道”的运动过程，但原文没有明确的“升／沉”之义。他又把“绳绳不可名”处理为 the series of things without name，容易使绵延而不可名状的“道”被理解为一系列无名事物。按照句法位置，Waley的 forms without form 较接近“无物之象”，而 vague semblances 对应“惚恍”。)",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例6。\n\n【原典／原始中文（保留原稿全文）】\n《老子》“无物之象”的两种英译\n\n其上不皦，其下不昧。绳绳不可名，复归于无物。是谓无状之状，无物之象，是谓惚恍。（老子《道德经》第十四章）"
+  },
+  {
+   "example_id": 21,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 18,
+   "english_text": "The term hsiang 象—“to resemble,” “portrait,” “figure,” “form,” “image,” “representation,” and so on—is virtually interchangeable with the homophone hsiang 像 from which it is derived.\n\n[…]\n\nBut, as Schafer has argued, the translation “symbol” does not fully capture the significance of these markings, which must be understood in connection with the “theory of correspondences”—the hsiang adorning the robes of the king served to reinforce the correlations between the ruler’s ritual activity and the movements of the heavens. Schafer prefers to render the term hsiang as “effigy,” “simulacrum,” “analogue,” “counterpart,” “equivalent,” or “other-identity.” “Celestial events are the ‘counterparts’ or ‘simulacra’ of terrestrial events; sky things have doppelgängers below, with which they are closely attuned.”",
+   "chinese_translation": "“象”（hsiang）可以表示“相似”“肖像”“形体”“形式”“形象”“表征”等含义，并且与由它派生出的同音字“像”在使用上几乎可以互换。\n\n……\n\n然而，正如Schafer所指出的，将“象”译为“符号”（symbol）并不能充分传达这些纹饰的意义。理解这些纹饰，必须联系“对应理论”：帝王礼服上的“象”强化了君王礼仪活动与天体运行之间的对应关系。Schafer倾向于将“象”译作“摹像”（effigy）、“拟象”（simulacrum）、“类比对应物”（analogue）、“对应物”（counterpart）、“等值物”（equivalent）或“另一对应身份”（other-identity）。天上的事件是地上事件的“对应物”或“拟象”；天上之物在地上具有与其成对的复现形态，二者彼此密切感应。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例7。"
+  },
+  {
+   "example_id": 22,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 19,
+   "english_text": "The concept of xiang is often translated as “image” or “imagery”. However, this translation causes as much confusion as does the term “mental imagery”. Xiang itself does not necessarily inherit visual properties from the object the image is associated with. As with mental imagery, there is the xiang of objects seen (visual mental imagery), the xiang of sound (auditory mental imagery), the xiang of smell (olfactory mental imagery), and so forth.",
+   "chinese_translation": "“象”这一概念通常被译为 image 或 imagery。然而，这种翻译与 mental imagery 一词一样容易引起混淆。“象”并不一定继承与其相关对象的视觉属性。与心理意象相似，既有视觉对象之象，也有声音之象即听觉心理意象，还有气味之象即嗅觉心理意象等。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例8。"
+  },
+  {
+   "example_id": 23,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": null,
+   "english_text": "This leads to a principle about the “yan-xiang-yi” paradigm, first summarised in the Great Appendix of I Ching (1882: 376–77):\n\nThe written characters are not the full exponent of speech (yan), and speech is not the full expression of ideas (yi). […] The sages made their emblematic symbols (xiang) to set forth fully their ideas.\n\nThis view is endorsed by Wang Bi, a philosopher in the third century, in his elaboration of this paradigm (1994: 31):\n\nImages are the means to express ideas. Words [i.e., the texts] are the means to explain the images. To yield up ideas completely, there is nothing better than the images, and to yield up the meaning of the images, there is nothing better than words. […] Thus, since the words are the means to explain the images, once one gets the images, he forgets the words, and, since the images are the means to allow us to concentrate on the ideas, once one gets the ideas, he forgets the images.\n\nThere are several implications from the above two quotes. First, words in a natural language have only a limited capacity to express thoughts. Some aspects of thought remain ineffable because words fail to correspond to them. Second, what is ineffable can be communicated through images. The speaker constructs an image (xiang) based on words (yan), and the purpose of this image is to communicate thoughts (yi), including the parts that cannot be decoded directly from words. Therefore, xiang is a necessary tool, serving the function of communicating the intended meaning. Third, the hearer should not cling to words once a xiang has been constructed, and should not cling to the xiang once the speaker’s thought has been understood.",
+   "chinese_translation": "由此可以引出“言—象—意”关系的一项原则，该原则最早见于《易经·系辞》中的总结（1882：376—377）：文字不能完全表达言语（言），言语不能完全表达思想（意）。……圣人设立具有表意功能的象征符号（象），以充分表达他们的思想。\n\n这一观点与三世纪哲学家王弼的观点不谋而合，王弼在阐述这一关系时说（1994：31）：\n\n象是表达意的手段，言辞〔即文本〕是说明象的手段。要充分表达意，没有什么比象更合适；要充分说明象的意义，没有什么比言辞更合适。……因此，言辞既是说明象的手段，那么，得到象之后便可以忘掉言辞；象既是使我们专注于意的手段，那么，领会意之后便可以忘掉象。\n\n以上两段引文包含几层意义。第一，自然语言中的言辞表达思想的能力是有限的。思想的某些方面难以言说，是因为言辞不能与之完全对应。第二，难以言说的内容可以通过象来传达。言说者以言辞（言）为基础构造出象，并借助这种象传达思想（意），包括那些无法直接从语言编码中解读出来的内容。因此，象是一种必要的工具，承担着传达意向意义的功能。第三，听者一旦形成了相应的象，便不应继续拘泥于言辞；一旦理解了言说者的思想，也不应继续执着于象本身。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：一般英文用例；条目：用例9。\n\n【来源】此条原稿片段未识别到独立出处；请人工核对原稿。"
+  },
+  {
+   "example_id": 24,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 20,
+   "english_text": "While there is no shortage of contemporary treatments of musical meaning and the emotions, the framing of the question in terms of images in the Chinese tradition—whether music is you xiang 有象 or wu xiang 無象—offers distinctive contributions to our understanding of music and the relationship between emotions and images.\n\nXiang is a complex and influential idea in the history of Chinese philosophy, with a range of other meanings, including “form,” “semblance,” “symbol,” “representation,” “imitate,” “appearance,” and “phenomenon.”",
+   "chinese_translation": "当代关于音乐意义与情感的讨论并不少见，但中国思想传统以“象”来讨论这一问题，即音乐究竟“有象”还是“无象”，这为我们理解音乐以及情感与象之间的关系提供了独特的思想资源。\n\n“象”是中国哲学史中一个复杂而影响深远的概念，其含义包括“形态”“相似形貌”“象征”“表征”“模拟”“外观”和“现象”等。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：音乐案例；条目：选例1。\n\n【原典／原始中文（保留原稿全文）】\n“象”在音乐问题中的核心地位\n\n原稿所属专题：案例: 外国学者对中国音乐哲学中“象”的专题研究（来源：Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153）"
+  },
+  {
+   "example_id": 25,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 20,
+   "english_text": "Elsewhere, in the Yue Ji, this idea is put succinctly as “Music (yue) represents/symbolizes (xiang) virtue (de).” An even bolder statement of the idea that someone’s character could be heard in their music is found in the Yue Xiang 樂象 or “Images of Music” chapter of the Yue Ji: “Only Music cannot be faked.”",
+   "chinese_translation": "《乐记》在另一处将这一思想简要表述为：“乐者，所以象德也”——即音乐是用来表现或象征德行的。《乐记》的《乐象》篇更明确地提出，可以通过音乐听出一个人的品格：“惟乐不可以为伪。”",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：音乐案例；条目：选例2。\n\n【原典／原始中文（保留原稿全文）】\n儒家“音乐体现德性”观念的概括—音乐有象\n\n原稿所属专题：案例: 外国学者对中国音乐哲学中“象”的专题研究（来源：Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153）"
+  },
+  {
+   "example_id": 26,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 20,
+   "english_text": "Certainly music moves people; but for Ji Kang, it is music’s autonomy from images and emotions that allows the heart to release its store. As he explains, “harmonious sounds have no images, but a grieved heart has its reasons” (he sheng wu xiang, ai xin you zhu 和聲無象，哀心有主). When a grieved heart is moved by such sounds, only grief is heard.\n\nIf music had images, each listener’s heart would not be moved in such a personalized manner, nor could music nourish each person’s life uniquely.",
+   "chinese_translation": "音乐无疑能够感动人；但在嵇康看来，正是由于音乐不依附于固定的“象”和情感，它才能使听者内心原已积聚的情感得到释放。正如他所说：“和声无象，哀心有主。”当一个怀有悲哀之心的人被和谐的声音触动时，他从中听到的只是自己心中的悲哀。\n\n如果音乐自身具有固定的“象”，不同听者的内心便不会以各自不同的方式受到触动，音乐也无法以不同方式涵养每个人的生命。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：音乐案例；条目：选例3。\n\n【原典／原始中文（保留原稿全文）】\n嵇康“和声无象”\n\n原稿所属专题：案例: 外国学者对中国音乐哲学中“象”的专题研究（来源：Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153）"
+  },
+  {
+   "example_id": 27,
+   "term_id": 3,
+   "concept_id": null,
+   "source_id": 20,
+   "english_text": "Ji Kang may have been right that music is empty of images as determinate, representational signs insofar as it is empty of objectifiable meaning.",
+   "chinese_translation": "如果把“象”理解为具有确定内容的表征符号，那么嵇康关于音乐“无象”的观点或许是正确的，因为音乐并不包含可以被对象化的固定意义。",
+   "page_number": null,
+   "notes": "原文档术语：《象》；类别：音乐案例；条目：选例4。\n\n【原典／原始中文（保留原稿全文）】\n作者对“无象”的现代阐释\n\n原稿所属专题：案例: 外国学者对中国音乐哲学中“象”的专题研究（来源：Meilin Chinn, “Music with and without Images,” Journal of Chinese Philosophy 47, nos. 3–4 (2020): 137–153）"
+  },
+  {
+   "example_id": 28,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 19,
+   "english_text": "Modern researchers generally translate “mental imagery” as 心理意象 xinli yixiang or sometimes 心象 xinxiang for short. Xinli is the term for the adjectives “mental” and “psychological”, and the morphological root xin represents the physical organ of the heart. The reason for this is that xin in Chinese philosophy is regarded as the central faculty for human cognition that triggers reactions to stimuli from discourse. It is conceptualised as guiding both reason and affect. Xin therefore is usually understood as “heart-mind” in this context. The second part—yixiang—is literally translated as “meaning image”, alluding to the relation between meaning and imagery that will be further examined below. From this translation we can see that in the Classical Chinese view, mental imagery is inseparable from meaning and that it is linked to propositionality, the result of reason, as well as non-propositionality, the result of affect and perception.",
+   "chinese_translation": "现代研究者通常将 mental imagery 译为“心理意象”（xinli yixiang），有时也简称为“心象”（xinxiang）。Xinli 相当于英语中的 mental 或 psychological；其中的构词成分“心”原指人体的心脏。之所以采用“心”字，是因为在中国哲学中，“心”被视为人类认知的核心能力，能够对言语信息的刺激作出反应，并被认为同时引导理性活动和情感活动。因此，在这一语境中，“心”通常被理解为“心灵”（heart-mind）。后一部分“意象”（yixiang）按字面可译为“意义—图象”（meaning image），表明意义与图象之间存在联系。由此可以看出，在作者所概括的中国古典思想中，心理意象与意义不可分离，它既与作为理性活动结果的命题性内容相关，也与源于情感和感知的非命题性内容相关。",
+   "page_number": null,
+   "notes": "原文档术语：《意象》；类别：一般英文用例；条目：用例1。"
+  },
+  {
+   "example_id": 29,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 21,
+   "english_text": "Thus in shaping and turning [as on a potter’s wheel] literary thought (wen-ssu), the most important thing is emptiness and stillness within. Dredge clear the inner organs and wash the spirit pure. Amass learning to build a treasure house; consult principle (li) to enrich talent; investigate and experience to know all that appears [literally “exhaust what shines”]; guide it along to spin the words out. Only then can the butcher, who cuts things apart mysteriously, set the pattern according to the rules of sound; and the uniquely discerning carpenter wield his ax with his eye to the concept-image (yi-hsiang). This is the foremost technique in directing the course of wen, the major point for planning a piece.\n\n[…]\n\nWe should also note here the appearance of a compound that was to become an important technical term in later theory and criticism: “concept-image,” yi-hsiang. While this term does not yet have the weight of associations it was to develop in later criticism, the germ of the later notion is already present. We may note that it is something which the craftsman considers as he acts, a prior envisagement from which the work follows. Had the Chinese been using concepts of mimēsis or representation, it would have been easy at this point to say that the actual artwork “represents” the prior “envisagement.” The possibility is not excluded; it is simply not addressed. In later criticism, a reader in his turn will perceive the yi-hsiang in the text. The yi-hsiang is the sketchy outline (from the fuzziness and lack of detail in the concept of hsiang, a normative schematization of the thing) of what is intended, though there is felt to be a special beauty and richness in that indeterminacy and lack of detail.",
+   "chinese_translation": "因此，在酝酿文思时，关键在于保持内心的虚明与宁静。要使身心通畅，心灵纯净。广积学问以储备创作的素材，斟酌事理以充实自己的才学，研究阅历以达到透彻的洞察，顺应情致以找到贴切的言辞。然后，让那深谙大道的主宰（指心灵），追寻声律的规律来落笔定稿；让那独具慧眼的匠人（指创作者），洞察心中的意象来运刀成文。这是驾驭文章的首要方法，也是谋篇布局的关键所在。\n\n我们还需注意，这里已出现了一个复合词“意象”（ concept-image），“意象”后来成为极为重要的文论与批评术语。不过，此时这个术语尚未形成后世批评语境中承载的丰富内涵，但在此已经显现后世相关理念的萌芽。我们可以看到，意象是匠人（创作者）在创作过程中会加以考量的东西，是先于作品生成的预先构想，作品正是从这一预想中衍生而来。倘若当时中国文论采用（mimēsis）或“再现”（representation）这类概念，那么此处很容易表述为：实际的艺术作品“再现”了这一预先存在的“构想”。这种可能性也无法完全排除，只是当时的论述并未对此进行明确的探讨。在后世的批评语境中，读者反过来也能在文本中感知到“意象”。“意象”是创作者意图的粗略轮廓（这种特质源自“象”概念本身的模糊与粗略，它是对事物的规范性图式化呈现），而人们认为这种不确定性与粗略性蕴含着独特的美感与丰富的阐释空间。",
+   "page_number": null,
+   "notes": "原文档术语：《意象》；类别：一般英文用例；条目：用例2。\n\n【原典／原始中文（保留原稿全文）】\n是以陶钧文思，貴在虚静，疏瀹五藏，澡雪精神。積學以儲寶，酌理以富才，研閱以窮照，馴致以譯辭。然後使玄解之宰。尋聲律而定墨；獨照之匠，窺意象而運斤：此蓋馭文之首術。謀篇之大端。\n\n【原稿说明／编著注】\n【编著注：施友忠（Vincent Yu-chung Shih）把“意象”译为“intuitive insight”，如下文 It is only then that he commissions the \"mysterious butcher\" [who dwells within him] to write in accord with musical patterns; and it is then that he sets the incomparably brilliant \"master wheelwright\" [who dwells within him] to wield the ax in harmony with his intuitive insight。来源：Liu Hsieh, The Literary Mind and the Carving of Dragons, translated with an introduction and notes by Vincent Yu-chung Shih, Columbia University Press, 1959.】"
+  },
+  {
+   "example_id": 30,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 22,
+   "english_text": "I answered: What you have said is quite correct, and what you claim shows you have a deep understanding of the precepts of poetry. But by natural principle you understand only that which can be firmly taken hold of and articulated as natural principle; I think you fail to understand that the ultimate natural principle is cut off from definite, denotative language (ming-yen). You understand event only in the sense of “there was that event,” but I think you fail to understand “there was no such event” as something from which ordinary events emerge. Everyone can speak of natural principle that can be spoken of, so why should the poet speak of it? Everyone can relate an event that has verifiably occurred, so why should a poet relate it? There must be principle that cannot be articulated and events that cannot be related; one encounters them beyond a silent comprehension of the image in the mind (yi-hsiang); and never do principle and event fail to gleam before it.",
+   "chinese_translation": "我回答说：你说的确实不错。你谈论诗的这番话，深得诗的要旨。但就自然之理而言，你只知道可言说、可把握的理才算理，却哪里知道言语（名言）无法表达的理才是至理呢？你只知道实有之事才算事，却哪里知道非实有之事正是一切事的源头呢？可言说的理，人人都能说，又何必要诗人来说？可以验证的事，人人都能叙述，又何必要诗人来叙述？诗歌里必定有不可言说的理、无法叙述的事，它们是在静默的心神领会中，从意象的层面自然浮现，让内在的理与事全都鲜活地呈现在读者眼前。",
+   "page_number": null,
+   "notes": "原文档术语：《意象》；类别：一般英文用例；条目：用例3。\n\n【原典／原始中文（保留原稿全文）】\n予曰「子之言誠是也。子所以稱詩者，深有得乎詩之旨者也。然子但知可言、可執之理之為理，而抑知名言所絕之理之為至理乎？子但知有是事之為事，而抑知無是事之為凡事之所出乎？可言之理，人人能言之，又安在詩人之言之？可徵之事，人人能述之，又安在詩人之述之？必有不可言之理、不可述之事，遇於默會意象之表，而理與事無不燦然於前者也。"
+  },
+  {
+   "example_id": 31,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 23,
+   "english_text": "The Qing critic Fang Xun in his Shanjingju Hualun (A Discussion of Painting in a Silent Mountain House) explicitly associates yi preceding the brush with the inner image (xiang) in the landscapist’s mind. This can be seen in the following:\n\n“The wonderful brush and ink comes from the wonderful yi of the painter. Therefore, the ancients made painting in the way of ‘yi preceding the brush’. Du Fu was said to paint a rock for ten days and water for five days. He did not mean to [spend five or ten days on wielding the brush and ink] and then complete a rock or water. The verses mean that in order to paint one should first [take time to] build [idea-images] [yixiang] in the mind, to have mountains and valleys in the breast; then one can naturally attain swift brushwork.”",
+   "chinese_translation": "清代批评家方薰在《山静居画论》中，明确地把“意在笔先”之“意”与山水画家心中的内在之“象”联系起来。这一点可以从下面的论述中看出：\n\n“笔墨之妙，画者意中之妙也。故古人作画，意在笔先。杜陵谓十日一石，五日一水者，非用笔十日五日而成一石一水也。在画时意象经营，先具胸中丘壑，落笔自然神速。”\n\n精妙的笔墨出自画家精妙的‘意’。因此，古人作画讲求意在笔先’。杜甫诗中说‘十日画一水，五日画一石’，并不是说画家实际挥动笔墨五日或十日，然后才画成一块石头或一片水景。这两句诗的意思是，作画之前应当先在心中酝酿、形成意象，做到胸中有山川丘壑，然后下笔自然能够迅疾流畅。”",
+   "page_number": null,
+   "notes": "原文档术语：《意象》；类别：一般英文用例；条目：用例4。"
+  },
+  {
+   "example_id": 32,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 24,
+   "english_text": "Line configuration and poetic vision are probably the two most important subjects of inquiry in traditional Chinese poetry criticism. The study of line configuration, called jufa (“sentence rules”), is essentially an analysis of how monosyllabic and disyllabic words form a poetic line or couplet to create certain unique rhythm and aesthetic effect. Poetic vision, called yixiang/yijing (“idea-image/idea-scape”), refers to a heightened presentation of outer and inner realities, characterized by the “beyondness” of one kind or another—“the meaning beyond words” (yan wai zhi yi), “the image beyond images” (xiang wai zhi xiang), and “the scene beyond scenes” (jing wai zhi jing), and the like.",
+   "chinese_translation": "传统中国诗歌批评最重要的两个研究对象，大概是诗句构成和诗境。诗句构成称为“句法”，主要研究单音节词和双音节词如何组成诗行或对偶，从而产生独特的节奏与审美效果。诗境称为“意象／意境”（yixiang/yijing，即“意—象／意—境”），指对外在现实与内在现实的提升性呈现，其特征是具有某种形式的“超越性”，例如“言外之意”“象外之象”和“景外之景”, 等等。",
+   "page_number": null,
+   "notes": "原文档术语：《意象》；类别：一般英文用例；条目：用例5。"
+  },
+  {
+   "example_id": 33,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 25,
+   "english_text": "The term yixiang is a construct in Chinese aesthetics that amalgamates two terms: yi (意), or ‘intent,’ and xiang (象), or ‘image.’ It is a conception rooted in the ancient philosophy of I Ching (Book of Change) and thus, two central themes were found by analyzing the aesthetic of yixiang: 1) the beauty of simplicity and naturalness and 2) an abstract emotion and nostalgic memory of natural landscape, where both require a deep understanding of the interaction between wuji (无极) (yin 阴) and taiji (太极) (yang 阳) in Daoism. However, concretizing an abstract concept such as an auditory aesthetic in guzheng music is challenging. Thus, there is a need to first explain its underlying philosophical context and how the ancient aesthetic concept shapes traditional Chinese arts from a visual perspective, serving as a foundational reference for discussing yixiang as a sonic entity.",
+   "chinese_translation": "“意象”是中国美学中的一个复合概念，由“意”（intent，意向）与“象”（image，形象）结合而成。它植根于《易经》的古代哲学思想。通过分析意象美学，作者归纳出两个核心主题：一是简朴与自然之美，二是关于自然山水的抽象情感和怀旧记忆。二者都需要从道家无极（阴）与太极（阳）的相互作用中加以理解。然而，在古筝音乐中将听觉审美这样的抽象概念具体化并不容易。因此，需要首先说明它的哲学基础，以及这一古代美学概念如何从视觉层面塑造中国传统艺术，从而为讨论作为声音性存在的“意象”提供基本参照。",
+   "page_number": null,
+   "notes": "原稿专题：四、音乐意象案例：古筝音乐中“意象”的声音化与演奏实现\n来源：Yuan Yuan Xi and Fung Ying Loo, “Concretizing Yixiang, Qiyun, and Yijing in Guzheng Music through a Daoist and Confucianist Lens,” Música Hodie 26 (2026): e83435\n简介\nYuan Yuan Xi与Fung Ying Loo的文章以中国传统美学中的“意象”“气韵”和“意境”为理论框架，考察这些范畴如何通过古筝的旋律结构、音色、演奏技法和表演过程获得具体的声音形态。作者将 yixiang 主要译为 artistic imagery，又从构词层面解释为 yi（intent）与 xiang（image）的结合，并进一步提出把意象理解为一种 sonic entity，即通过音乐而生成的声音性审美存在。\n文章在第3.1节作出如下界定："
+  },
+  {
+   "example_id": 34,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 25,
+   "english_text": "The concept of yixiang in painting, poetry, and calligraphy parallels the way guzheng music encapsulates scenes and emotions through its melodies, where the musician must internalize and then express the essence of the theme of the repertoire. […] Thus, in a traditional guzheng performance, yixiang is the aesthetic act where the musician’s emotional state and the instrument’s material properties coalesce to create a dynamic, expressive soundscape that embodies the composer’s intention.",
+   "chinese_translation": "绘画、诗歌和书法中的“意象”概念，与古筝音乐通过旋律容纳景象和情感的方式具有相通之处；演奏者必须首先将曲目主题的精神实质内化于心，而后将其表现出来。……因此，在传统古筝演奏中，“意象”是一种审美活动：演奏者的情感状态与乐器的物质属性在这个审美活动中相互融合，形成一个动态而富有表现力的音响世界，并使作曲者的意向得到体现",
+   "page_number": null,
+   "notes": "原稿专题：四、音乐意象案例：古筝音乐中“意象”的声音化与演奏实现\n来源：Yuan Yuan Xi and Fung Ying Loo, “Concretizing Yixiang, Qiyun, and Yijing in Guzheng Music through a Daoist and Confucianist Lens,” Música Hodie 26 (2026): e83435\n简介\nYuan Yuan Xi与Fung Ying Loo的文章以中国传统美学中的“意象”“气韵”和“意境”为理论框架，考察这些范畴如何通过古筝的旋律结构、音色、演奏技法和表演过程获得具体的声音形态。作者将 yixiang 主要译为 artistic imagery，又从构词层面解释为 yi（intent）与 xiang（image）的结合，并进一步提出把意象理解为一种 sonic entity，即通过音乐而生成的声音性审美存在。\n文章在第3.1节作出如下界定："
+  },
+  {
+   "example_id": 35,
+   "term_id": 4,
+   "concept_id": null,
+   "source_id": 25,
+   "english_text": "The repetitive dropping of wide leaps, executed effortlessly and naturally, is intended to evoke the spatial arrangement and positioning of lotus flowers on the surface of a pond. […] The smooth “scraping” technique performed on varying beats further enhances this effect, creating an auditory image of the lotus’s gentle swaying on the water’s surface.",
+   "chinese_translation": "反复出现的下行大跳以自然、不着痕迹的方式奏出，旨在唤起莲花散布于池面之上的空间排列。……在不同节拍位置上运用的流畅刮奏进一步强化了这一效果，形成莲花在水面上轻轻摇曳的听觉形象。在《梅花三弄》中，泛音的清亮音色不是直接描绘梅花的视觉外观，而是表现花朵摇曳的动态和精神气质，并形成介于现实与情感之间的自由而不确定的审美空间。该例尤其能够说明：音乐意象不一定是可以明确辨认的“声音图画”，也可以是由音色、动态、空间感和主体情感共同形成的审美形象。",
+   "page_number": null,
+   "notes": "原稿专题：四、音乐意象案例：古筝音乐中“意象”的声音化与演奏实现\n来源：Yuan Yuan Xi and Fung Ying Loo, “Concretizing Yixiang, Qiyun, and Yijing in Guzheng Music through a Daoist and Confucianist Lens,” Música Hodie 26 (2026): e83435\n简介\nYuan Yuan Xi与Fung Ying Loo的文章以中国传统美学中的“意象”“气韵”和“意境”为理论框架，考察这些范畴如何通过古筝的旋律结构、音色、演奏技法和表演过程获得具体的声音形态。作者将 yixiang 主要译为 artistic imagery，又从构词层面解释为 yi（intent）与 xiang（image）的结合，并进一步提出把意象理解为一种 sonic entity，即通过音乐而生成的声音性审美存在。\n文章在第3.1节作出如下界定："
+  }
+ ],
+ "Interpretations": [
+  {
+   "interpretation_id": 1,
+   "example_id": 1,
+   "term_id": 1,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "该材料展示了“写意”由中国传统绘画概念向当代音乐创作观念转化的英文译介路径。文本保留拼音 Xieyi，并以 impressionistic manner、freehand brushwork 和 freely expressive 说明其绘画来源及自由表现的特征，又通过 artistic conception 将“写意”与“意境”的表达联系起来。文中从音乐材料的强度变化、虚实效果及氛围转换等方面说明写意观念如何转化为非视觉性的听觉体验，并进一步以 Xieyi Technique 指称以意境和气韵的呈现为基础的音乐创作方法，音乐材料形成了从绘画风格、审美观念到音乐技法的概念转换过程。\r\n\r\n这一材料是中国作曲家创作观念的英文译介，其价值主要在于呈现“写意”进入国际音乐传播时的实际表达，不宜将其中所有措辞视为规范译法。Freehand brushwork 适合说明绘画中的自由用笔，但不宜直接移用于音乐作品；Freehand 在英语中主要表示不借助工具的徒手操作，或描述绘画中自由、不拘细节的用笔方式，其语义与视觉艺术的创作行为密切相关。impressionistic manner 可能使英语读者联想到西方音乐史中的印象主义；illusion of music materials 与 aura expression 含义不够明确，也不是自然、稳定的英语搭配。相比之下，保留拼音 Xieyi，并根据具体语境使用 Xieyi style、Xieyi thinking 或 Xieyi Technique，更有利于保留概念的中国文化属性，同时区分写意作为艺术风格、创作观念和具体方法的不同层面。",
+   "notes": null
+  },
+  {
+   "interpretation_id": 2,
+   "example_id": 12,
+   "term_id": 2,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": null,
+   "notes": "原稿：意—案例1"
+  },
+  {
+   "interpretation_id": 3,
+   "example_id": 13,
+   "term_id": 2,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "本案例节选自冷谦《琴声十六法》中的“和”与“疾”两节，由高罗佩译入 The Lore of the Chinese Lute: An Essay in Ch’in Ideology。两段材料从不同角度揭示了“意”在古琴演奏理论中的作用：它既是声音所传达的审美意蕴，又是支配演奏技术和声音运动的内在原则。\n\n在“和”一节中，高罗佩先后用 significance 翻译“音有意”“意动音随”和“音与意和”中的“意”。Significance 强调声音并非单纯的物理声响，而具有可以被理解和感受的表现意义。不过，原文中的“意”又不只是静态的“意义”。“意动音随”表明，“意”能够发动和引导声音，使音的轻重、疾徐、连断与抑扬获得内在方向；“音与意和”则表示声音的实际呈现最终应与其所表达的意蕴相协调。因此，此处的“意”兼有“审美意蕴”与“表现意向”两方面含义。\n\n高罗佩将“意动音随”译为 the significance comes first, for the notes adjust themselves to the significance，突出了“意”对于声音的先导作用，但带有一定的解释性。原文的“动”不仅表示时间上的“在先”，还包含发动、运化和引导之义；“随”也不只是音符对既定意义的机械调整，而是声音随着“意”的发生而自然运行。因而，较贴近原文的理解是：“意发动，声音随之而行。”\n\n“和”在这里也不是单纯的音准和谐，而是一个逐层实现的过程：先有弦与指和，继而指与音和，再达到音与意和，最终进入“神闲气逸、指与弦化、浑合无迹”的“太和”境界。这说明古琴演奏中的技术、声音、情感与精神状态并非彼此分离；技术只有在“意”的引导下，才能转化为具有审美意义的声音。\n\n“疾”一节进一步把“意”的作用落实到具体的速度控制中。小速须紧凑而不失雅度，大速须迅疾而不乱，并在快速运动中保持“安闲之气象”。因此，“疾”并不等同于单纯加快速度，而是受到“意”的统摄。原文“疾以意用”说明快速指法应依照作品的意蕴和表现要求来运用；“更以意神”则表明，声音因“意”的贯注而获得神妙的表现力。高罗佩将其译为 the quick touch is regulated by the meaning of the tones 和 It is the meaning that lends tones their divine qualities，基本传达了“意”对技术和声音的支配作用，但 divine qualities 容易使“神”带上宗教性的“神圣”含义。这里的“神”更接近“神妙”“神采”或具有生命感的表现品质。\n\n此外，高罗佩以 vibrato、vibrato ritardando、glissando、crescendo 和 decrescendo 等西方音乐术语解释“吟”“猱”“绰”“注”和“抑扬”，有助于英语读者理解相关演奏现象，却并非严格的一一对应。例如，“吟”“猱”是具有特定动作方式和审美要求的古琴左手指法，不能完全等同于西方弦乐演奏中的 vibrato；“抑扬”也不仅表示音量的渐强与渐弱。因此，这些译法仅视为高罗佩所处时代的跨文化解释实例，不宜直接视为现代古琴术语的标准英译。\n\n总体而言，本案例中的 significance 和 meaning 都揭示了“意”的意义或意蕴层面。“意”在此既是声音承载的审美内容，也是发动声音、统摄指法并协调演奏全过程的表现性意向。两段材料共同说明，在古琴理论中，演奏技术不是独立的形式操作，而须由“意”加以引导；“意”也不能脱离声音而抽象存在，而要在轻重、疾徐、连断、气象和音色的具体运动中得到实现。由此形成的“音—意”关系，可以视为中国传统音乐表演美学中“以意驭技、以音显意、音意相和”的集中体现。",
+   "notes": "原稿：意—案例2"
+  },
+  {
+   "interpretation_id": 4,
+   "example_id": 14,
+   "term_id": 2,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这段材料没有为“意”确定唯一的英文对应词，而是比较了 meaning、intention、as intended 和 meaningfulness 等不同解释，由此揭示“意”在音乐语境中的多层含义。作者首先对“the player will be able to express himself through the music”这种解释性翻译提出疑问。这一译法把“意”理解为演奏者需要通过音乐表达的内在自我，其优点是清楚地呈现了心智活动、演奏动作与声音表现之间的联系；而不足则在于 express himself 容易引入现代艺术观念中的“自我表达”，可能会过度强化演奏者的主体性，使读者认为音乐所传达的是演奏者个人的思想或情感内容，也可能与嵇康“声无哀乐”的基本立场发生矛盾。\n\n为解决这一问题，作者列出了三种翻译选择。第一种是 only then will meaning be expressed。这里的 meaning 把“意”理解为音乐所呈现的意义，但容易使人继续追问音乐究竟表达了什么确定内容。第二种是 only then will the music resemble the meaning or intention。其中，meaning 偏向所表现的内容，intention 则偏向演奏者的意向或音乐运行的方向。第三种是 all is played only as intended，即“一切都按照所想要的方式演奏出来”。这一译法不再把“意”处理为音乐所指称的对象，而将其理解为指导演奏实现的原则。三种译法分别突出了“意”的不同方面：meaning 强调音乐所具有的意义或意蕴；intention 强调主体的意向和行动方向；as intended 强调演奏结果与内在意向之间的符合。不过，作者最终更倾向于用 meaningfulness 解释此处的“意”。Meaning 通常使人想到“某物所表达的具体意思”，具有“表达什么”的指向性；meaningfulness 则表示一种“具有意义、富有意味”的状态，不要求音乐指向某个可以用语言明确表述的内容。二者的区别可以概括为：Meaning 追问音乐“表达了什么”，而 meaningfulness 关注音乐“如何呈现出一种有意义的状态”。\n\n按照作者的解释，音乐的意义性来自两个方面。首先，音乐缺少语言符号及其固定指称，因而不会把听者的情感限制在某个确定对象上，反而能够使情感得到释放。其次，当演奏者心境宁静、技巧纯熟时，触弦动作与思维状态相互呼应，意义性便在身体动作和声音生成的过程中呈现出来。此时，“意”不是先于声音而独立存在的一项确定内容，而是在心、手与声音的协调运动中得到实现。\n\n就本用例库的义项分类而言，这段材料同时涉及“意志与意向”和“意味与意趣”：intention 与 as intended 对应意向及演奏趋向，meaning 与 meaningfulness 则对应音乐的意义、意蕴和意味。它的重要价值正在于说明，这两类含义在音乐实践中并非截然分离。演奏者的“意”通过触弦和声音运动得以实现，并最终成为音乐可以被感知的“意味”。",
+   "notes": "原稿：意—案例3"
+  },
+  {
+   "interpretation_id": 5,
+   "example_id": 24,
+   "term_id": 3,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这段明确说明：“象”不限于视觉图像； image 只是其基本译法； 音乐中的核心问题是声音是否具有可以确定和传递的“象”。 第二句列出的七种译法是作者的概念归纳，并非七个彼此独立的义项。",
+   "notes": "原稿：象—选例1"
+  },
+  {
+   "interpretation_id": 6,
+   "example_id": 25,
+   "term_id": 3,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "此处作者用“Music represents/symbolizes virtue”解释《乐记》的音乐思想，但并非对某一句含有“象”字的原文所作的逐字翻译。作者在这里把 xiang 当作动词理解为：表现；表征；象征； 使不可见的德行通过音乐呈现出来。",
+   "notes": "原稿：象—选例2"
+  },
+  {
+   "interpretation_id": 7,
+   "example_id": 26,
+   "term_id": 3,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这段说明“无象” 并非指音乐没有任何形式、形态或意义，而是指音乐本身并不包含可以被固定辨认和统一传递的情感形象或表征内容。悲哀属于听者已经形成的“哀心”，音乐是触发或释放这种情感的条件，并不等于音乐内部储存着一个“悲哀之象”。",
+   "notes": "原稿：象—选例3"
+  },
+  {
+   "interpretation_id": 8,
+   "example_id": 27,
+   "term_id": 3,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这一段把 image 进一步限定为 determinate, representational signs，即具有确定内容的表征性符号，有助于防止读者把“无象”误解为“没有审美意义”。作者在此区分了可以对象化的固定意义与音乐的“意义性”：前者把意义理解为音乐内部携带并指向某种确定对象的内容；后者则指音乐在演奏和聆听过程中以特定方式被感受和理解。嵇康所谓“和声无象”否定的是音乐具有固定的表征性内容，并不否定音乐能够在具体聆听中呈现意义。",
+   "notes": "原稿：象—选例4"
+  },
+  {
+   "interpretation_id": 9,
+   "example_id": 33,
+   "term_id": 4,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这篇文章从三个层面建立了“意象”与音乐之间的联系：\n\n构词层面：作者将“意象”分解为 intent 与 image，分别对应主体的意向与由此生成的形象。\n\n审美层面：意象被理解为主体的情感和思想与外部自然世界相互作用所形成的审美领域，因而不能单纯归属于主体或客体。\n\n音乐实践层面：作者把意象落实到旋律、泛音、刮奏、单催、叠奏、停顿和留白等具体音乐要素，说明自然物象、情感体验和审美意趣如何转化为动态的声音形态。\n\n文章使用了多种与“意象”有关的英文表达：\n\nartistic imagery：全文对“意象”采用的主要译法，强调艺术中的形象化呈现；\n\nintention and imagery：概括“意向”与“形象”两个方面的结合；\n\nintent + image：从构词角度对“意”与“象”进行拆解；\n\nsonic entity：强调意象在音乐中形成的音响；\n\nauditory image：指具体声音或演奏技法所唤起的听觉形象；\n\npoetic imagery：强调音乐中的诗性形象及其情感、自然关联。\n\n其中，artistic imagery 是全文中“意象”的一般译法；auditory image 主要指可以通过声音唤起的具体形象，其范围比中国美学意义上的“意象”窄；intent + image 是一种解释性的构词分析，而不是成熟、固定的英语对应词；sonic entity 则体现了作者把意象从视觉艺术转入音乐领域的理论尝试。\n\n这篇文章没有把音乐意象简单理解为对自然景物的声音模仿，而是强调演奏者的情感状态、乐器的声音属性、演奏技法和自然形象之间的共同作用。例如，《莲花》中的大跳与刮奏不仅描摹莲花的位置和运动，还形成空间感、动态感以及相应的情感体验；《梅花三弄》中的泛音也不是复制梅花的视觉外观，而是表现其摇曳之态与精神气质。因此，音乐意象既可以包含较为具体的听觉形象，也可以表现无法还原为确定物象的情感、气质和审美意味。\n\n不过，作者有时把“意象”“气韵”和“意境”的作用交叉使用：旋律轮廓、自然形象和情感内涵有时归入“意象”，声音流动和生命感归入“气韵”，整体审美体验又归入“意境”， 在具体分析中三者并无清晰的界限。此外，作者把“意象”与“自然无为”“大音希声”“法天贵真”直接联系起来，这是一种当代解释框架，不能视为这些古代范畴之间已经得到原典证明的固定对应关系。",
+   "notes": "原稿：音乐案例：概念界定"
+  },
+  {
+   "interpretation_id": 10,
+   "example_id": 34,
+   "term_id": 4,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这段论述完成了“意象”从视觉艺术向音乐艺术的理论转换。在绘画中，“象”可以依托可见的线条、色彩和空间形式；在古筝音乐中，它则需要通过旋律、节奏、音色、演奏动作和声音的时间性展开。音乐意象因此不是视觉形象的简单声音复制，而是景象、情感与声音材料在演奏过程中相互融合的结果。作者把 yixiang 称为the aesthetic act，说明音乐意象不仅是演奏完成后形成的“音响形象”， 也指这一形象得以形成的审美活动。演奏者首先内化乐曲的主题和情感，再通过身体动作作用于琴弦，将其转化为动态的声音形态；听者则在聆听中重新形成相应的情感体验和想象。综合文章的相关论述，这里的音乐意象同时包含三个方面：演奏者内在的情感与意向、古筝声音所形成的可感形态，以及演奏和聆听过程中不断生成的审美体验。",
+   "notes": "原稿：音乐案例：从视觉意象向音乐意象转换"
+  },
+  {
+   "interpretation_id": 11,
+   "example_id": 35,
+   "term_id": 4,
+   "interpretation_type": "音乐案例评析",
+   "interpretation_text": "这段将“意象”落实为可分析的音乐要素：用反复出现的下行大跳来表现莲花在池面上的空间分布，不同节拍位置上的刮奏则形成水面流动和莲花摇曳的动态感。音程、节奏、音色与演奏动作共同构成作者所说的 auditory image。不过，auditory image 主要指特定声音所唤起的听觉形象，其范围比 yixiang 更窄；完整的音乐意象还包含演奏者的情感状态、关于自然的想象以及由此形成的审美意味。",
+   "notes": "原稿：音乐案例：具体乐曲与演奏技法"
+  }
+ ]
+}
